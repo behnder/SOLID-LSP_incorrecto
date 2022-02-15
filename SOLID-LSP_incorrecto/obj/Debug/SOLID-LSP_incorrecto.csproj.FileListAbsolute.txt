@@ -1,0 +1,7 @@
+E:\unity\quark\Solid\SOLID-LSP_incorrecto\SOLID-LSP_incorrecto\bin\Debug\SOLID-LSP_incorrecto.exe.config
+E:\unity\quark\Solid\SOLID-LSP_incorrecto\SOLID-LSP_incorrecto\bin\Debug\SOLID-LSP_incorrecto.exe
+E:\unity\quark\Solid\SOLID-LSP_incorrecto\SOLID-LSP_incorrecto\bin\Debug\SOLID-LSP_incorrecto.pdb
+E:\unity\quark\Solid\SOLID-LSP_incorrecto\SOLID-LSP_incorrecto\obj\Debug\SOLID-LSP_incorrecto.csproj.AssemblyReference.cache
+E:\unity\quark\Solid\SOLID-LSP_incorrecto\SOLID-LSP_incorrecto\obj\Debug\SOLID-LSP_incorrecto.csproj.CoreCompileInputs.cache
+E:\unity\quark\Solid\SOLID-LSP_incorrecto\SOLID-LSP_incorrecto\obj\Debug\SOLID-LSP_incorrecto.exe
+E:\unity\quark\Solid\SOLID-LSP_incorrecto\SOLID-LSP_incorrecto\obj\Debug\SOLID-LSP_incorrecto.pdb
